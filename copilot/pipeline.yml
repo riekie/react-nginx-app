@@ -15,7 +15,7 @@ source:
   # has the following properties: repository, branch.
   properties:
     branch: master
-    repository: https://github.com/LukeMwila/react-nginx-app
+    repository: https://github.com/riekie/react-nginx-app
 
 # The deployment section defines the order the pipeline will deploy
 # to your environments.
